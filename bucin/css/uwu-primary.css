@@ -206,7 +206,7 @@ a:focus {
 }
 
 .content__title {
-	font-size: 3rem;
+	font-size: 1rem;
 	font-weight: inherit;
 	margin: 0;
 	color: var(--color-title);
